@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I’m currently learning cybersecurity and ethical hacking in my own time
+### I am pursuing Bachelors in Computer Science
 <!--
 **KTKChAoS/KTKChAoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
