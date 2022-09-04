@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I’m currently learning cybersecurity and ethical hacking in my own time
+### I’m currently working as a SDE Intern at Elekta Inc.
 ### I am pursuing Bachelors in Computer Science from The University of Texas at Dallas
 ### Looking for full time offers from May '23!!
 <!--
