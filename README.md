@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I’m currently learning cybersecurity and ethical hacking in my own time
 ### I am pursuing Bachelors in Computer Science from The University of Texas at Dallas
-### Looking for summer '22 internships!
+### Looking for full time offers from May '23!!
 <!--
 **KTKChAoS/KTKChAoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
