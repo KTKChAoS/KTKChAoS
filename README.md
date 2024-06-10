@@ -1,7 +1,6 @@
 ### Hi there 👋
-### I’m currently working as a SDE Intern at Elekta Inc.
-### I am pursuing Bachelors in Computer Science from The University of Texas at Dallas
-### Looking for full time offers from May '23!!
+### I’m currently working as a Software Engineer at Amdocs.
+### I completed my Bachelors in Computer Science from The University of Texas at Dallas
 <!--
 **KTKChAoS/KTKChAoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
